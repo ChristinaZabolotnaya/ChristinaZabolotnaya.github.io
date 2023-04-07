@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life | Academic</title>
+    <link>https://example.com/category/life/</link>
+      <atom:link href="https://example.com/category/life/index.xml" rel="self" type="application/rss+xml" />
+    <description>Life</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Life</title>
+      <link>https://example.com/category/life/</link>
+    </image>
+    
+    <item>
+      <title>Blog 1</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week was very informative and interesting, it turned out to be productive for me.&lt;/p&gt;
+&lt;p&gt;Last week I visited the Maly Theatre, one of the oldest theaters in Russia. His troupe was created at Moscow University in 1756, immediately after the decree of Empress Elizaveta Petrovna, which marked the birth of a professional theater in the country.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog 3</title>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-2/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-2/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Last week I visited one of the most beautiful parks in Moscow - Victory Park. That is why it is necessary to tell a little about him. After all, a walk in this place was an important event of the past week.&lt;/p&gt;
+&lt;p&gt;Victory Park is a large memorial complex dedicated to the victory in the Great Patriotic War. It is often called Poklonnaya Gora, after the name of the historical area in which the park is located. In Victory Park, folk festivals are held on holidays, newlyweds come here to lay flowers at the memorial, and the townspeople and guests of the capital rush here just to take a walk, ride roller skates and bicycles, and look at the fountains.&lt;/p&gt;
+&lt;p&gt;In the Museum of the Great Patriotic War - the main object of the entire complex - in the &amp;ldquo;Book of Memory&amp;rdquo; department, almost 1500 volumes of Books of Memory are stored, in which the names of the fallen soldiers are inscribed.&lt;/p&gt;
+&lt;p&gt;The main alley is decorated with 1418 fountains - so many days the war lasted - located on five water terraces - each of them personifies the year of hostilities.&lt;/p&gt;
+&lt;p&gt;In the center of the Victory Park there is a 141.8 meters high stele. At the top of it is a statue of the goddess Nike. At the foot of the obelisk is a sculpture of St. George the Victorious slaying a serpent with a spear.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

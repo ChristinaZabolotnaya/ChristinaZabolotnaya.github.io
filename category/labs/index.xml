@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/tag/academic/</link>
-      <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Labs | Academic</title>
+    <link>https://example.com/category/labs/</link>
+      <atom:link href="https://example.com/category/labs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Labs</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/tag/academic/</link>
+      <title>Labs</title>
+      <link>https://example.com/category/labs/</link>
     </image>
-    
-    <item>
-      <title>Blog 1</title>
-      <link>https://example.com/post/getting-started/</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Last week was very informative and interesting, it turned out to be productive for me.&lt;/p&gt;
-&lt;p&gt;Last week I visited the Maly Theatre, one of the oldest theaters in Russia. His troupe was created at Moscow University in 1756, immediately after the decree of Empress Elizaveta Petrovna, which marked the birth of a professional theater in the country.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Blog 2</title>
@@ -40,20 +29,6 @@
 &lt;p&gt;The next major issue that people encounter is that they need to collaborate with developers on other systems. To deal with this problem, Centralized Version Control Systems (CVCSs) were developed. These systems (such as CVS, Subversion, and Perforce) have a single server that contains all the versioned files, and a number of clients that check out files from that central place. For many years, this has been the standard for version control.&lt;/p&gt;
 &lt;p&gt;This setup offers many advantages, especially over local VCSs. For example, everyone knows to a certain degree what everyone else on the project is doing. Administrators have fine-grained control over who can do what, and it’s far easier to administer a CVCS than it is to deal with local databases on every client.&lt;/p&gt;
 &lt;p&gt;However, this setup also has some serious downsides. The most obvious is the single point of failure that the centralized server represents. If that server goes down for an hour, then during that hour nobody can collaborate at all or save versioned changes to anything they’re working on. If the hard disk the central database is on becomes corrupted, and proper backups haven’t been kept, you lose absolutely everything — the entire history of the project except whatever single snapshots people happen to have on their local machines. Local VCSs suffer from this same problem — whenever you have the entire history of the project in a single place, you risk losing everything.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blog 3</title>
-      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-2/</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5-2/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Last week I visited one of the most beautiful parks in Moscow - Victory Park. That is why it is necessary to tell a little about him. After all, a walk in this place was an important event of the past week.&lt;/p&gt;
-&lt;p&gt;Victory Park is a large memorial complex dedicated to the victory in the Great Patriotic War. It is often called Poklonnaya Gora, after the name of the historical area in which the park is located. In Victory Park, folk festivals are held on holidays, newlyweds come here to lay flowers at the memorial, and the townspeople and guests of the capital rush here just to take a walk, ride roller skates and bicycles, and look at the fountains.&lt;/p&gt;
-&lt;p&gt;In the Museum of the Great Patriotic War - the main object of the entire complex - in the &amp;ldquo;Book of Memory&amp;rdquo; department, almost 1500 volumes of Books of Memory are stored, in which the names of the fallen soldiers are inscribed.&lt;/p&gt;
-&lt;p&gt;The main alley is decorated with 1418 fountains - so many days the war lasted - located on five water terraces - each of them personifies the year of hostilities.&lt;/p&gt;
-&lt;p&gt;In the center of the Victory Park there is a 141.8 meters high stele. At the top of it is a statue of the goddess Nike. At the foot of the obelisk is a sculpture of St. George the Victorious slaying a serpent with a spear.&lt;/p&gt;
 </description>
     </item>
     
